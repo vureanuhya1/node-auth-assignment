@@ -1,0 +1,15 @@
+{
+  "name": "node-auth-assignment",
+  "version": "1.0.0",
+  "description": "Assignment - Authentication in Node.js (Password Hashing + JWT)",
+  "main": "task1.js",
+  "scripts": {
+    "start:task1": "node task1.js",
+    "start:task2": "node task2.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
